@@ -1,0 +1,6 @@
+test,password,bob,joe,2145555555,710 morning,gg@gmail.com,1,0
+test2,password,frank,bill,7386589874,9590 dawn,bb@gmail.com,0,0
+group1,password123,Johm,Doe,214 538 1697,UTD Dallas,xyz@utdallas.edu,0,0
+testuser,password,Bob,Doe,214 555 5555,710 UTDALL,utd@gmail.com,0,1
+utdtest,pass123,billy,bob,213 444 4444,678 moon,jj@gmail.com,0,1
+final,password12,utdtest,utdfinal,911 ,888 earth,utddallas@utd.edu,0,1

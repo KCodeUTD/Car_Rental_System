@@ -1,0 +1,6 @@
+1,Chevy,Malibu,2009,Red
+2,BMW,X9,2021,Silver
+3,Dodge,Ram,2013,Black
+4,Chevy,Impala,2022,Blue
+5,BMW,X9,2018,Silver
+6,Dodge,Ram,2011,Black
